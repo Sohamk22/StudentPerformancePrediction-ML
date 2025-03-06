@@ -1,0 +1,1 @@
+In this Project, a dataset which has students from nationalities, different grade levels and also soe determining factors like, number of hands raised, nuber attendances, number of hours studied etc. is used, which is a CSV File.
